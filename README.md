@@ -1,0 +1,2 @@
+# Python Gmail Email Sender
+ This Python script sends an email using Gmail's SMTP server. It utilizes the smtplib library to establish a secure connection to the SMTP server and the ssl module for encryption. The script prompts the user to input their Gmail password, then constructs an email message with a specified subject and body content. The body content can include HTML formatting for richer email content. Once the message is composed, it's sent to the recipient's email address. Finally, the script prints a success message upon successful delivery of the email.
